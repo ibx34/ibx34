@@ -15,3 +15,7 @@ RustBot: A Discord bot for running Rust, and another Rust related utilities
 
 BrewLang (Progress Stopped ATM): An intrepreted programming language, built in Rust
 <https://github.com/BrewLang/brew-lang>
+
+Pieces: A command line argument parser
+<https://github.com/ibx34/pieces>
+<https://github.com/ibx34/pieces-test>
