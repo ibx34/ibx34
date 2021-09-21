@@ -1,5 +1,5 @@
 * Projects
-  --------
+  ========
 
   * Katrubs/Purr
     ------------ A theme manager for Linux, built in Rust
